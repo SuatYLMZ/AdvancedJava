@@ -1,0 +1,7 @@
+Why do we need to use generics?
+    1. to reduce run time error
+    2. to eliminate type casting when we assign values...
+    3. to reuse the same class, interface, methods for different data types
+    4. stronger type - checking and letting us know in the compile time
+    5. code re-usability
+    6. help us to improve code quality and to write clean code
